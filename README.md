@@ -1,20 +1,13 @@
-# This repo is no longer used. Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
+# Carta
+Say hello to Carta, a modern, illustrated site template.
 
-| Language | Platform | Author |
-| -------- | --------|--------|
-| HTML |  Azure Web App, Virtual Machine| |
+[Papaya](https://www.papayatemplates.com)
+[@jrdnbwmn](https://www.twitter.com/jrdnbwmn)
 
-# Sample HTML website 
+Demo images from [Unsplash](https://unsplash.com/).
+Icons from [Entypo](http://entypo.com/).
 
-Sample HTML/CSS web app that you can deploy to Azure. 
+## Instructions
+For local development, run `npm install` on the main directory and then `gulp` to get BrowserSync going along with all the Gulp tasks (see [Pear](https://github.com/jrdnbwmn/Pear)).
 
-## License
-
-See [LICENSE](LICENSE).
-
-
-## Contributing
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
+Development files are in `src`. Everything is compiled into `dist`—that’s where all your final files reside.
